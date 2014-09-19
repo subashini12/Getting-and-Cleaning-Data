@@ -1,5 +1,3 @@
-Getting-and-Cleaning-Data
-=========================
 Project for Getting and Cleaning Data
 =====================================
 Author: Benjamin Chan (https://github.com/benjamin-chan/GettingAndCleaningData)
